@@ -1,3 +1,7 @@
+* {
+    font-family: 'Times New Roman';
+}
+
 h1 {
     color: blue;
     text-align: center;
@@ -5,10 +9,6 @@ h1 {
 
 }
 
-#para{
-    color: red;
-    font-family: 'Times New Roman';
-}
 
 #outer{
     font-size: 25px;
