@@ -1,5 +1,6 @@
 p{
     color: greenyellow;
+    text-align: center;
 }
 
 body{
@@ -16,8 +17,10 @@ h1{
 }
 #heading1{
     color: rgb(47, 166, 47);
+    text-align: center;
 }
 
 .Myclass{
     color: rgb(95, 47, 166);
+    text-align: center;
 }
