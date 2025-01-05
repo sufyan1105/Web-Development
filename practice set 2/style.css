@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+#para{
+    color: red;
+    font-family: 'Times New Roman';
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}
