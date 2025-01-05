@@ -23,4 +23,9 @@ h1{
 .Myclass{
     color: rgb(95, 47, 166);
     text-align: center;
+    text-decoration: blue wavy underline; 
+    font-weight: 250;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
 }
