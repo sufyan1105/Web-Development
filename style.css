@@ -15,9 +15,10 @@ button{
 h1{
     color: rgb(80, 210, 93);
 }
-#heading1{
-    color: rgb(47, 166, 47);
+#heading{
+    color: rgb(133, 39, 157);
     text-align: center;
+    font-size: 100px;
 }
 
 .Myclass{
