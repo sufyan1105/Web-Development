@@ -36,7 +36,7 @@
 
 #navbar{
     height: 60px;
-    background-color: #0f110f;
+    background-color: #0f110f;;
 }
 button{
     background-color: #f08804;
@@ -44,6 +44,9 @@ button{
 #logo{
     color: #f08804;
     font-size: 25px;
+}
+a{
+    margin-right : 200px;
 }
 
 
