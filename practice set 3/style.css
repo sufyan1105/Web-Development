@@ -1,4 +1,4 @@
-
+/* 
 .container{
     background-color: black;
     height: 300px;
@@ -26,4 +26,26 @@
 
 #green{
     background-color: green;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
 }
+
+#navbar{
+    height: 60px;
+    background-color: #0f110f;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+
+
+
