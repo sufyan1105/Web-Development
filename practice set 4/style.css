@@ -27,6 +27,9 @@ a{
     border: 2px solid black;
     display: inline-block;
 }
+#content{
+    height: 650px;
+}
 
 footer{
     background-color: #0f110f;
