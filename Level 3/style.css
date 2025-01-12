@@ -1,6 +1,8 @@
 #box1 {
     width: 100px;
     height: 100px;
+    background-image: url("leapord.jpg");
+    background-size: cover ;
 }
 #box2 {
     width: 100px;
@@ -11,7 +13,6 @@
     height: 100px;
 }
 #box4{ 
-    position: absolute;
     width: 100px;
     height: 100px;
 }
